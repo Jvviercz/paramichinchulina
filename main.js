@@ -1,5 +1,5 @@
 
-const nextYearDate = new Date((new Date()).getFullYear(), 1, 11);
+const nextYearDate = new Date((new Date()).getFullYear(), 10, 11);
 
 setInterval(() => {
   const todayDate = new Date()
